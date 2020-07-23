@@ -1,0 +1,16 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
+User-agent: YodaoBot
+Disallow: /
+User-agent: Teoma
+Disallow: /
+User-agent: MSNBot
+Disallow: /
+User-agent: googlebot-image
+Disallow: /
+User-agent: yahoo-mmcrawler
+Disallow: /
+User-agent: *
+Disallow: 
+Crawl-delay: 20
+Disallow: /test
+Sitemap: http://domain.com/sitemap.xml

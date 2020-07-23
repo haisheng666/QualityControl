@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>华北华南华东全国ping出口品质图</title>
+
+</head>
+<style type="text/css">
+
+.map1 {background-image:url("/static/img/bg.jpg");
+      background-repeat:no-repeat;/*图片适应窗口大小，这里设置的是不进行平铺*/
+      background-attachment: fixed;/*图片相对于浏览器固定,这里设置背景图片固定，不随内容滚动*/
+      background-origin: border-box;/*从边框区域显示*/
+      background-size:cover;/*指定图片大小，此时会保持图像的纵横比并将图像缩放成将完全覆盖背景定位区域的最小大小*/
+	  }
+</style>
+
+
+
+<body class="map1">
+    <!--Step:1 为ECharts准备一个具备大小（宽高）的Dom-->
+	<div class="map" id="main" style="padding:10px;height:95px;"></div>
+
+<script src="/static/js/echarts.js"></script>
+<script src="/static/js/jquery-1.10.2.min.js"></script>
+<script src="/static/custom_js/echart_china_map.js"></script>
+<script type="text/javascript">
+    $(function() {
+        var mapWidth = $('#main').css('width');
+        $('.map').css('height',0.5*parseInt(mapWidth)+'px');
+    });
+    $(window).resize(function(){
+        var mapWidth = $('#main').css('width');
+        $('.map').css('height',0.5*parseInt(mapWidth)+'px');
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,393 @@
+{
+    "kone": [
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "上海移动",
+            "value": 30.80
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "云南移动",
+            "value": 56.70
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "内蒙古移动",
+            "value": 31.00
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "北京移动",
+            "value": 3.40
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "吉林移动",
+            "value": 20.80
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "四川移动",
+            "value": 41.00
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "宁夏移动",
+            "value": 23.90
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "安徽移动",
+            "value": 34.00
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "山东移动",
+            "value": 21.30
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "山西移动",
+            "value": 19.50
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "广东移动",
+            "value": 36.20
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "广西移动",
+            "value": 84.50
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "新疆移动",
+            "value": 54.90
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "江苏移动",
+            "value": 28.20
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "江西移动",
+            "value": 40.40
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "河北移动",
+            "value": 5.40
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "河南移动",
+            "value": 14.80
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "浙江移动",
+            "value": 36.80
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "海南移动",
+            "value": 62.20
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "湖北移动",
+            "value": 26.40
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "湖南移动",
+            "value": 35.70
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "甘肃移动",
+            "value": 34.50
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "福建移动",
+            "value": 55.70
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "西藏移动",
+            "value": 65.00
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "贵州移动",
+            "value": 51.70
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "辽宁移动",
+            "value": 20.60
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "重庆移动",
+            "value": 59.40
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "陕西移动",
+            "value": 23.00
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "青海移动",
+            "value": 32.60
+        }],
+        [{
+            "name": "北京",
+            "smoothness": 0.3
+        }, {
+            "name": "黑龙江移动",
+            "value": 20.80
+        }]
+    ],
+    "ktwo": [{
+        "name": "上海移动",
+        "value": 30.80
+    }, {
+        "name": "云南移动",
+        "value": 56.70
+    }, {
+        "name": "内蒙古移动",
+        "value": 31.00
+    }, {
+        "name": "北京移动",
+        "value": 3.40
+    }, {
+        "name": "吉林移动",
+        "value": 20.80
+    }, {
+        "name": "四川移动",
+        "value": 41.00
+    }, {
+        "name": "宁夏移动",
+        "value": 23.90
+    }, {
+        "name": "安徽移动",
+        "value": 34.00
+    }, {
+        "name": "山东移动",
+        "value": 21.30
+    }, {
+        "name": "山西移动",
+        "value": 19.50
+    }, {
+        "name": "广东移动",
+        "value": 36.20
+    }, {
+        "name": "广西移动",
+        "value": 84.50
+    }, {
+        "name": "新疆移动",
+        "value": 54.90
+    }, {
+        "name": "江苏移动",
+        "value": 28.20
+    }, {
+        "name": "江西移动",
+        "value": 40.40
+    }, {
+        "name": "河北移动",
+        "value": 5.40
+    }, {
+        "name": "河南移动",
+        "value": 14.80
+    }, {
+        "name": "浙江移动",
+        "value": 36.80
+    }, {
+        "name": "海南移动",
+        "value": 62.20
+    }, {
+        "name": "湖北移动",
+        "value": 26.40
+    }, {
+        "name": "湖南移动",
+        "value": 35.70
+    }, {
+        "name": "甘肃移动",
+        "value": 34.50
+    }, {
+        "name": "福建移动",
+        "value": 55.70
+    }, {
+        "name": "西藏移动",
+        "value": 65.00
+    }, {
+        "name": "贵州移动",
+        "value": 51.70
+    }, {
+        "name": "辽宁移动",
+        "value": 20.60
+    }, {
+        "name": "重庆移动",
+        "value": 59.40
+    }, {
+        "name": "陕西移动",
+        "value": 23.00
+    }, {
+        "name": "青海移动",
+        "value": 32.60
+    }, {
+        "name": "黑龙江移动",
+        "value": 20.80
+    }],
+    "kthree": [{
+        "hostid": "10107",
+        "graphid": "550"
+    }, {
+        "hostid": "10108",
+        "graphid": "551"
+    }, {
+        "hostid": "10109",
+        "graphid": "552"
+    }, {
+        "hostid": "10110",
+        "graphid": "553"
+    }, {
+        "hostid": "10111",
+        "graphid": "554"
+    }, {
+        "hostid": "10112",
+        "graphid": "555"
+    }, {
+        "hostid": "10113",
+        "graphid": "556"
+    }, {
+        "hostid": "10116",
+        "graphid": "559"
+    }, {
+        "hostid": "10117",
+        "graphid": "560"
+    }, {
+        "hostid": "10118",
+        "graphid": "561"
+    }, {
+        "hostid": "10119",
+        "graphid": "562"
+    }, {
+        "hostid": "10120",
+        "graphid": "563"
+    }, {
+        "hostid": "10121",
+        "graphid": "564"
+    }, {
+        "hostid": "10122",
+        "graphid": "565"
+    }, {
+        "hostid": "10123",
+        "graphid": "566"
+    }, {
+        "hostid": "10124",
+        "graphid": "567"
+    }, {
+        "hostid": "10125",
+        "graphid": "568"
+    }, {
+        "hostid": "10126",
+        "graphid": "569"
+    }, {
+        "hostid": "10127",
+        "graphid": "570"
+    }, {
+        "hostid": "10128",
+        "graphid": "571"
+    }, {
+        "hostid": "10129",
+        "graphid": "572"
+    }, {
+        "hostid": "10130",
+        "graphid": "573"
+    }, {
+        "hostid": "10131",
+        "graphid": "574"
+    }, {
+        "hostid": "10132",
+        "graphid": "575"
+    }, {
+        "hostid": "10133",
+        "graphid": "576"
+    }, {
+        "hostid": "10135",
+        "graphid": "578"
+    }, {
+        "hostid": "10136",
+        "graphid": "579"
+    }, {
+        "hostid": "10137",
+        "graphid": "580"
+    }, {
+        "hostid": "10138",
+        "graphid": "581"
+    }]
+  }

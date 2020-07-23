@@ -1,2 +1,2 @@
 # QualityControl
-全国各地区ping品质监控大屏展示
+网络设备和服务器品质监控，包括ping，路由，cpu等各种参数
